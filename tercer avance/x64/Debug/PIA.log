@@ -1,7 +1,0 @@
-﻿  PIA.cpp
-C:\Users\chema\Downloads\2do semestre LMAD\Programación\PIA\PIA.cpp(160,18): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\chema\Downloads\2do semestre LMAD\Programación\PIA\PIA.cpp(162,28): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\chema\Downloads\2do semestre LMAD\Programación\PIA\PIA.cpp(164,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\chema\Downloads\2do semestre LMAD\Programación\PIA\PIA.cpp(166,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\chema\Downloads\2do semestre LMAD\Programación\PIA\PIA.cpp(168,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-  PIA.vcxproj -> C:\Users\chema\Downloads\2do semestre LMAD\Programación\PIA\x64\Debug\PIA.exe
