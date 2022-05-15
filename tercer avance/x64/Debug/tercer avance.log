@@ -1,0 +1,7 @@
+﻿  tercer_avance.cpp
+C:\Users\chema\Downloads\2do semestre LMAD\Programación\tercer avance\tercer_avance.cpp(167,18): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\chema\Downloads\2do semestre LMAD\Programación\tercer avance\tercer_avance.cpp(169,28): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\chema\Downloads\2do semestre LMAD\Programación\tercer avance\tercer_avance.cpp(171,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\chema\Downloads\2do semestre LMAD\Programación\tercer avance\tercer_avance.cpp(173,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\chema\Downloads\2do semestre LMAD\Programación\tercer avance\tercer_avance.cpp(175,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  tercer avance.vcxproj -> C:\Users\chema\Downloads\2do semestre LMAD\Programación\tercer avance\x64\Debug\tercer avance.exe
